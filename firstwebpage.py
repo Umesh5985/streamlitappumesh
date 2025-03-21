@@ -7,7 +7,7 @@ import os
 
 st.title("another app")
 
-MODEL_PATH = "model.h5"
+MODEL_PATH = "best_model.hdf5"
 MODEL_URL = "https://drive.google.com/uc?id=1ZhEZMP6HyNuq5l9Qr0FCLiLa8qSbJNat"
 
 # Load the model only once
